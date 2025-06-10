@@ -2,18 +2,26 @@
     Edat: 22
     Estudis: ESO, GM i GS
     Professio: Analista
+    Projectes: Dual
+    Eines: Word
 
 2.Arnau Costa
     Edat: 22
     Estudis: ESO, GM i GS
     Professio: Analista
+    Projectes: Final GS DAW
+    Eines: Node js, react i render
 
 3.Biel Nieto
     Edat: 22
     Estudis: ESO, GM i GS
     Professio: Analista
+    Projectes: Final GS DAW
+    Eines: Node js, react i render
 
 4.Jan Gimenez
     Edat: 22
     Estudis: ESO, GM i GS
     Professio: Analista
+    Projectes: Final GS DAW
+    Eines: Node js, react i render
