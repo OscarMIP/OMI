@@ -1,4 +1,19 @@
 1.Lluis Llinares
+    Edat: 22
+    Estudis: ESO, GM i GS
+    Professio: Analista
+
 2.Arnau Costa
+    Edat: 22
+    Estudis: ESO, GM i GS
+    Professio: Analista
+
 3.Biel Nieto
+    Edat: 22
+    Estudis: ESO, GM i GS
+    Professio: Analista
+
 4.Jan Gimenez
+    Edat: 22
+    Estudis: ESO, GM i GS
+    Professio: Analista
